@@ -1,0 +1,44 @@
+#navbarMenu {
+    text-align: center
+}
+.navbar {
+    border-bottom: 1px solid #cccccc;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    
+}
+.under {
+    border-top: 1px solid #cccccc;
+    
+}
+body { 
+	background-image: url("assets/images/light-grey-terrazzo.png");
+}
+
+.footer {
+    border-top: 3px solid #4aaaa5
+}
+p {
+    line-height: 2em;
+}
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 13px 8px 13px 8px;
+    
+}
+.myBanner {
+
+    background-color: #4aaaa5;
+    width: 100%
+
+}
+.btn {
+    background-color: #4aaaa5;
+    color: white;
+}
+label {
+    color: #777777;
+}
