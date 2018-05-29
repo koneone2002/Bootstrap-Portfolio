@@ -4,7 +4,7 @@
 .navbar {
     border-bottom: 1px solid #cccccc;
 }
-h2 {
+h4 {
     font-family: 'Times New Roman', Times, serif;
     color: #4aaaa5;
     
@@ -32,7 +32,7 @@ p {
 .myBanner {
 
     background-color: #4aaaa5;
-    width: 100%
+   
 
 }
 .btn {
